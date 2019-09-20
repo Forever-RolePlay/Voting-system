@@ -1,2 +1,2 @@
 # Voting-system
-Voting system in PHP
+This is a configurable voting system for your minecraft server, it supports Votifier and NuVotifier.
